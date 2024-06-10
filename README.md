@@ -1,0 +1,1 @@
+Create a separate project for each file. The Slave file is used to generate many slaves (3 are requested by default on the server but can be changed by modifying the code). The Slave file needs two arguments, the simulated delay time in milliseconds (e.g. 1000) and the slave listening port (e.g. 1234).
