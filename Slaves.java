@@ -1,4 +1,9 @@
-
+/**
+ * @author Lerynnx (Github)
+ * @version 1.0
+ * @date 2024/06/10
+ * Do not modify or use this code without the permission of the author.
+ */
 import java.net.*;
 import java.io.*;
 
